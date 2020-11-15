@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UdemyCourse\\ASPNetCore_Angular\\DatingApp\\API\\API.csproj": {}
+    "c:\\UdemyCourse\\ASPNetCore_Angular\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\UdemyCourse\\ASPNetCore_Angular\\DatingApp\\API\\API.csproj": {
+    "c:\\UdemyCourse\\ASPNetCore_Angular\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UdemyCourse\\ASPNetCore_Angular\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "c:\\UdemyCourse\\ASPNetCore_Angular\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\UdemyCourse\\ASPNetCore_Angular\\DatingApp\\API\\API.csproj",
+        "projectPath": "c:\\UdemyCourse\\ASPNetCore_Angular\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\arrashi\\.nuget\\packages\\",
-        "outputPath": "C:\\UdemyCourse\\ASPNetCore_Angular\\DatingApp\\API\\obj\\",
+        "outputPath": "c:\\UdemyCourse\\ASPNetCore_Angular\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arrashi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,6 +53,10 @@
               "noWarn": [
                 "NU1605"
               ]
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
